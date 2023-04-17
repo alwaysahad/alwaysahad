@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQG3OFj9Xtpy9w/profile-displaybackgroundimage-shrink_350_1400/0/1679863104465?e=1687392000&v=beta&t=eqf_BwSUd1iQOWK-F-oLaWs1AsnPjwXsPKR3ZMXfzlE)
+[](https://media.licdn.com/dms/image/D4D16AQG3OFj9Xtpy9w/profile-displaybackgroundimage-shrink_350_1400/0/1679863104465?e=1687392000&v=beta&t=eqf_BwSUd1iQOWK-F-oLaWs1AsnPjwXsPKR3ZMXfzlE)
 
 <h1 align="center">Hi 👋, I'm Abdul Ahad</h1>
 <h3 align="center">A passionate frontend developer from India🇮🇳</h3>
