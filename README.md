@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Blockchain Development**
 
 - 💬 Ask me about **Javascript**
 
