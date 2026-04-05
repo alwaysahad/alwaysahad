@@ -3,5 +3,5 @@
 </p>
 
 <h3 align="center">
-  <a href="https://ahadsama.tech">alwaysahad.me</a>
+  <a href="https://alwaysahad.me">alwaysahad.me</a>
 </h3>
